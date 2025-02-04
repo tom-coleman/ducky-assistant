@@ -1,0 +1,16 @@
+pyautogen
+requests
+streamlit
+openai
+toml
+pandas
+tabulate
+python-dotenv
+httpx
+asyncio~=3.4.3
+pytest
+fastapi
+uvicorn
+gunicorn
+jupyter
+
